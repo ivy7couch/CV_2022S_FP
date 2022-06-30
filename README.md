@@ -1,1 +1,2 @@
-# CV_2022S_FP
+# CV_2022S_Final_Project
+## Light-Weight Facial Landmark Prediction Challenge
